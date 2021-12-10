@@ -1,13 +1,25 @@
-<h1> Python, Dialogflow, Twilio, Whatsapp Chatbot </h1>
-<p>Python WhatsApp chatbot with Dialogflow and Twilio api</p>
+# Python, Dialogflow, Twilio, Whatsapp Chatbot
+## Python WhatsApp chatbot with Dialogflow and Twilio api
 
-<h4 id="virtualenv">Create Python Virtual Environment </h4>
-<p>Install virtual environment</p>
+### id="virtualenv">Create Python Virtual Environment 
+#### Install virtual environment
 
 `pip install virtualenv`
 
-<p>Create a virtual environment</p>
+#### Create a virtual environment
 
 `virtualenv -p python3 chatbot_env`
 
-<small>you can give any name you want instead of <b>chatbot_env</b></small>
+###### you can give any name you want instead of <b>chatbot_env</b>
+
+activate virtual environment 
+###### Linux Mac OS
+`
+cd ./chatbot_env
+source bin/activate
+`
+###### Windows
+`
+cd ./chatbot_env
+ Scripts/activate
+`
