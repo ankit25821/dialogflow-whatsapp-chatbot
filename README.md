@@ -1,5 +1,11 @@
+<style>
+  code{
+  display: block;
+  padding: 2px;
+  }
+</style>
 <h1> Python, Dialogflow, Twilio, Whatsapp Chatbot </h1>
-<p>WhatsApp chatbot with Dialogflow and Twilio api</p>
+<p>Python WhatsApp chatbot with Dialogflow and Twilio api</p>
 
 <h4 id="virtualenv">Create Python Virtual Environment </h4>
 <p>Install virtual environment</p>
