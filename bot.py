@@ -47,7 +47,7 @@ def sendMessage(mobnum, message):
     'Body': message,
     'To': mobnum}
     headers = {
-        'Autherization': 'Basic <token>'
+        'Authorization': 'Basic <token>'
     }
     response = requests.request('POST', url, headers=headers, data=payload)
     print(response.text.encode('utf8'))
