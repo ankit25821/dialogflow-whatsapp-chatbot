@@ -1,16 +1,16 @@
 # Python, Dialogflow, Twilio, Whatsapp Chatbot
 
 ### Create Python Virtual Environment 
-#### Install virtual environment
+#### Install virtualenv
 ```console
 pip install virtualenv
 ```
 
 #### Create a virtual environment
+###### Give any name you want instead of *chatbot_env*
 ```console
 virtualenv -p python3 chatbot_env
 ```
-###### You can give any name you want instead of **`chatbot_env`**
 
 #### Activate virtual environment 
 ###### Linux, Mac OS
@@ -29,7 +29,7 @@ cd chatbot_env\
  Scripts\activate
 ```
 
-#### Installing requirements from **requirements.txt** file
+#### Installing requirements from *requirements.txt* file
 ```console
 pip install -r requirements.txt
 ```
