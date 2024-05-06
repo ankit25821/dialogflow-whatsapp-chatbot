@@ -23,10 +23,7 @@ source bin/activate
 ```
 ###### Windows
 ```console
-cd chatbot_env\
-```
-```console
- Scripts\activate
+chatbot_env\Scripts\activate
 ```
 
 #### Installing requirements from *requirements.txt* file
