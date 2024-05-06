@@ -24,6 +24,6 @@ chatbot_env\Scripts\activate
 pip install -r requirements.txt
 ```
  
- To configure Dialogflow api with flask follow this [doc.](https://medium.com/zenofai/creating-chatbot-using-python-flask-d6947d8ef805)
+ To configure Dialogflow api with flask follow this [post](https://medium.com/zenofai/creating-chatbot-using-python-flask-d6947d8ef805)
  
- To configure Twilio api with Whatsapp follow this [doc.](https://www.twilio.com/blog/build-a-whatsapp-chatbot-with-python-flask-and-twilio)
+ To configure Twilio api with Whatsapp follow this [post](https://www.twilio.com/blog/build-a-whatsapp-chatbot-with-python-flask-and-twilio)
